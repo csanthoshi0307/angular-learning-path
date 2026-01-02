@@ -36,7 +36,7 @@ Validation
 Practice: Login form
 Interview: Template vs Reactive forms
 
-# – Weekly Review
+# – Fundamentals Review
 Revise Days 1–6
 Build Mini App: User Registration
 Mock Interview (self)
@@ -75,7 +75,7 @@ map, switchMap, forkJoin
 Practice: API chaining
 Interview: Observable vs Promise
 
-# – Weekly Review
+# – Core Angular Review
 Build Mini App: CRUD Dashboard
 Revise RxJS + Routing
 
@@ -112,7 +112,7 @@ XSS, CSRF
 DomSanitizer
 Interview: Angular built-in security
 
-# – Weekly Review
+# –  Advanced & Enterprise Angular Review
 Build Enterprise App Skeleton
 Auth + Dashboard + API
 
@@ -150,12 +150,10 @@ Interview: switchMap vs mergeMap
 50 Angular questions
 Explain lifecycle, DI, RxJS
 
-
 # – System Design (Angular)
 Large-scale Angular app
 Interview: Designing enterprise UI
 
 # Final Project & Mock Interview
-
 Build End-to-End Angular App
 Explain project as in interview
