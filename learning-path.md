@@ -37,7 +37,7 @@ Practice: Login form
 Interview: Template vs Reactive forms
 
 # – Fundamentals Review
-Revise Days 1–6
+Revise:
 Build Mini App: User Registration
 Mock Interview (self)
 
